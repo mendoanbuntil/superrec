@@ -2,9 +2,10 @@
   "name-web":"Hundreds of healthy, seasonal, and whole food recipes",
   "author":"food drink recipes",
   "remove-comment-html":true,
-  "target":"https://srecipe.org/",
+  "target":"https://chefsandrecipes.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
+    "script",
     "noscript",
     "meta",
     "iframe",
