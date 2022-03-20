@@ -215,7 +215,7 @@
       "data-innerHTML":"",
       "position":"start"
     },
-	{
+    {
       "name-element":"meta",
       "data-attribute":[
         {
@@ -225,7 +225,18 @@
 	{
           "name-attribute":"content",
           "value-attribute":"4SfI7jpHKyneIryN2VRIH97EqrDPGTlsKhDk8BeDANg"
-        }
+     },
+     {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"msvalidate.01"
+        },
+	{
+          "name-attribute":"content",
+          "value-attribute":"54CA2BC71FA66FE9E4CF213887096836"
+      }
       ],
       "data-innerHTML":"",
       "position":"start"
