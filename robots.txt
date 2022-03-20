@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://infolowongankerja.netlify.app/host-https-srecipe.org/sitemap_index.xml
+Sitemap: https://fooddrinksrecipes.netlify.app/host-https-chefsandrecipes.com/sitemap_index.xml
