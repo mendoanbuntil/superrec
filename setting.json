@@ -244,6 +244,21 @@
       ],
       "data-innerHTML":"",
       "position":"start"
+    },
+    {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"yandex-verification"
+        },
+	{
+          "name-attribute":"content",
+          "value-attribute":"0ed8adead7c09efe"
+      }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
     }
   ],
   "inject-element-body":[
